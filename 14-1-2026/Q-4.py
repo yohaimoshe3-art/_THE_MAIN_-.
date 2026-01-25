@@ -2,4 +2,4 @@
 
 print("Yohai moshe")
 
-a =zizi
+#STOP
