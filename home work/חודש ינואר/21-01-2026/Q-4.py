@@ -17,6 +17,3 @@ print("the min rating to the movie is:", max_rating)
 print("the max rating to the movie is:", min_rating)
 
 
-
-
-

@@ -10,4 +10,3 @@ while True:
         i = i + 1
 print(sum)
 print(i)
-
