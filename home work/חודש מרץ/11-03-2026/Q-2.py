@@ -26,6 +26,3 @@ print(result)
 
 
 
-
-
-
